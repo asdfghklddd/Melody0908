@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Melody</string>
+	<key>CFBundleName</key>
+	<string>Melody</string>
+	<key>MODELSCOPE_API_TOKEN</key>
+	<string>ms-6adde2f2-752a-42ae-a994-f7a72364b1e9</string>
+	<key>MODELSCOPE_API_TOKEN_2</key>
+	<string>ms-c4240429-6fd6-47f1-ac5b-1e9a79f4f114</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>需要读取您的日历，以提供 AI 问候与放松建议。</string>
+</dict>
+</plist>

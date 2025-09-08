@@ -1,0 +1,19 @@
+{
+  "data" : [
+    {
+      "filename" : "loading_animation.mov",
+      "idiom" : "universal",
+      "universal-type-identifier" : "com.apple.quicktime-movie"
+    },
+    {
+      "filename" : "loading_animation.mp4",
+      "idiom" : "universal",
+      "universal-type-identifier" : "public.mpeg-4"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
+
